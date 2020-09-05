@@ -1,0 +1,9 @@
+// MAKE SURE TO ADD SPACES AFTER input.print
+input.get Whats your name?:
+print Hi!
+input.print 
+wait 1
+input.get Whats your favorite color?:
+print Me to!
+print I lovee
+input.print 
