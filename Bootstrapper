@@ -1,0 +1,5 @@
+import requests
+res = requests.get("https://rdan.scpreviewreview.repl.co/").text
+if res.split("Version: ")[1] == "1.0.3":
+  print("On date!")
+ 
